@@ -65,8 +65,9 @@ customer_id,customer_name, customer_mobile, frequency
 ##### frequency
 從 [0-20] 中隨機進行選擇
 
+>
 > 賦予此 class 一個 calculate_csv() method, 當被呼叫時，會讀取 /ilovecoffee/customers.csv，並列印出frequency 的中數、眾數及平均數 (取至小數點後 5 位)
-
+>
 
 ## 當您挑戰結束時，請在您的最後一次 commit 中輸入您對此份工作，在程式上的期待，謝謝您。
 
